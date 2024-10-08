@@ -1,8 +1,7 @@
 # Transmision-de-Datos
 Programa de análisis de transmisiones de datos para detectar código malicioso incrustado. Identifica secuencias de bits malintencionadas en flujos de datos, detecta desplazamientos en el inicio de los datos y compara transmisiones intervenidas. Herramienta clave para mejorar la seguridad en comunicaciones digitales.
 
- Programa en C++ que lea 5 archivos de texto (de nombre fijo, no se piden al usuario) que contienen exclusivamente caracteres del 0 al 9, caracteres entre A y F y saltos de línea:
-
+ Este programa en C++ lee 5 archivos de texto (de nombre fijo, no se piden al usuario) que contienen exclusivamente caracteres del 0 al 9, caracteres entre A y F y saltos de línea:
 
      transmission1.txt
      transmission2.txt
