@@ -1,0 +1,4 @@
+Equipo:
+Ramiro Flores A01710879 -Parte 1, lectura de archivos, archivos de transmisión y mcode, formato main.cpp
+Joseph Shakalo A01784107 -,Parte 2, lectura de archivos, Funciones palindromos en archivos de transmisión
+Fabrizio Barrios A01784901 -Parte 3, lectura de archivos, Funciones Main.cpp, Funciones substrings
